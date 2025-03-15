@@ -8,4 +8,5 @@ body {
 }
 .p{
     font-family: serif;
+    justify-content: space-between;
 }
