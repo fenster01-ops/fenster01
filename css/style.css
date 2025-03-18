@@ -1,4 +1,12 @@
 body {
+    font-size: 20px;
     background-color: blue;
     display: flex;
+}
+.h2 {
+    font-family: serif;
+}
+.p{
+    font-family: serif;
+    justify-content: space-between;
 }
